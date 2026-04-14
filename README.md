@@ -15,7 +15,7 @@ Analyze business data to generate insights for better decision-making by leaders
 
 ## 📊 Key Insights
 
-* Identified revenue trends across different regions
+* Netherlands and EIRE are top revenue contributors (~280K each). 
 * Found top-performing markets and customers
 * Analyzed global demand patterns
 
