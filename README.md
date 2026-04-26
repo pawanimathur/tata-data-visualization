@@ -1,8 +1,15 @@
-# Tata Data Visualisation – Business Insights
+📊 Tata Data Visualization (Power BI / Tableau)
 
-## 📌 Objective
+📌 Overview
 
-Analyze business data to generate insights for better decision-making by leadership.
+This project analyzes business data to identify revenue trends, top-performing markets, and customer demand patterns using data visualization tools.
+
+## 🎯 Objective
+
+* Analyze revenue trends over time
+* Identify top markets and customer segments
+* Understand product demand patterns
+* Present insights through interactive dashboards
 
 ---
 
@@ -15,21 +22,28 @@ Analyze business data to generate insights for better decision-making by leaders
 
 ## 📊 Key Insights
 
-* Netherlands and EIRE are top revenue contributors (~280K each). 
-* Found top-performing markets and customers
-* Analyzed global demand patterns
+* Identified top-performing regions contributing maximum revenue
+* Observed seasonal trends in sales performance
+* Highlighted high-demand product categories
+* Provided insights to support strategic business decisions
 
 ---
 
-## 📁 Project Overview
-
-This project focuses on analyzing business performance data and presenting it through interactive dashboards to help executives understand key business metrics.
-
----
-
-## 📷 Dashboard Preview
+📷 Dashboard Preview
 
 ![maindashboard png](https://github.com/user-attachments/assets/602e6f01-2176-480f-80a5-53c54334f4e3)
+
+## 📂 Files in Repository
+
+* Dashboard file
+* Dataset
+* Project screenshots
+
+## 📁 Project Summary
+
+This project focuses on analyzing business performance data and presenting it through interactive dashboards to help stakeholders understand key business metrics and make informed decisions.
+
+---
 
 ![dashboard01 png](https://github.com/user-attachments/assets/e6ec60f4-5996-4510-8ccf-18f428cfcd0b)
 ![dashboard02 png](https://github.com/user-attachments/assets/36820430-15cd-4e54-b316-2d1d19346cdc)
